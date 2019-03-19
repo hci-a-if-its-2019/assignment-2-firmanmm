@@ -7,47 +7,38 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
-
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![Original Problem](img/original.jpg)
+![Original Problem](img/solution-1.jpg)
+![Original Problem](img/solution-2.jpg)
+![Original Problem](img/solution-3.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+#### Original
+The original one has less intuitive label which says something like "IS847260A" which is **meaningless** for new user. Not only meaningless, **user has to remember** what is their course's code so they will land in the correct page. Othwerwise, they have to perform **exhaustive search** between all available course until they found the correct one.
+#### Solution 1
+In the first solution, i proposed to change the label into the **course's name**. For example, the label "IS847260A" should be changed to "Pra TA [A]". This way, user can effectively know which course do they need.
+#### Solution 2
+In the second solution, i proposed to change the whole navigation into a **live search navigation** which user has to partially type the course's name so the system can suggest which class they are looking for. For example, if user started to type "**Tek**" system should show 3 or more possible result like "**Tek**nologi Bergerak", "**Tek**nik Peramalan" dan "**Tek**nik Pemodelan". This way user can quickly find their desired result.
+#### Solution 3
+The third solution is actually an improvement of the first solution, i proposed to change the dropdown naviation into **PopUp Dropdown Navigation**. I also suggest to change the label into course's name. This way it won't feel encrumbed. For Example, if user started to hover on "XXXX" label, a popup will show and show user its content.
+
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+Given three possible solution, i will go with the **second solution** because a live search will save user's time and provide optimal result for the user. It will also prevent user from performing exhaustive search by having to open any drop down.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+Based on my last contextual inquiry, i noticed something very important. **If user takes a lot of time to get to what they want then it's a bad design**. User should be able to quickly find what they're looking for. Exhaustive search is an example of bad design. That's why i decided to choose the second solution if it's possible to be implemented for the website.
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+Operating System : Windows
+Physical Input : Mouse and Keyboard
+Screen Size : 15.6 inch
+Screen Resolution : Min (1366 x 768) or higher with screen ration of 16:9
+Screen Color Space : RGB
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+The user is expected to be familiar with desktop computers which means they can use mouse and keyboards well enough. The user is also expected to be familiar with modern web browser such as Mozilla Firefox and Google Chrome. The user is expected to be a atleast 18 years old so they has enough experience using computers.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
