@@ -31,11 +31,11 @@ Based on my last contextual inquiry, i noticed something very important. **If us
 
 ## Part B: Assumptions
 ### 1. Hardware
-Operating System : Windows
-Physical Input : Mouse and Keyboard
-Screen Size : 15.6 inch
-Screen Resolution : Min (1366 x 768) or higher with screen ration of 16:9
-Screen Color Space : RGB
+- Operating System : Windows
+- Physical Input : Mouse and Keyboard
+- Screen Size : 15.6 inch
+- Screen Resolution : Min (1366 x 768) or higher with screen ration of 16:9
+- Screen Color Space : RGB
 
 ### 2. Users
 The user is expected to be familiar with desktop computers which means they can use mouse and keyboards well enough. The user is also expected to be familiar with modern web browser such as Mozilla Firefox and Google Chrome. The user is expected to be a atleast 18 years old so they has enough experience using computers.
