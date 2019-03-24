@@ -8,9 +8,9 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 ![Original Problem](img/original.jpg)
-![Original Problem](img/solution-1.jpg)
-![Original Problem](img/solution-2.jpg)
-![Original Problem](img/solution-3.jpg)
+![Solution 1](img/solution-1.jpg)
+![Solution 2](img/solution-2.jpg)
+![Solution 3](img/solution-3.jpg)
 
 ### 2. Version Differences
 #### Original
@@ -41,4 +41,7 @@ Based on my last contextual inquiry, i noticed something very important. **If us
 The user is expected to be familiar with desktop computers which means they can use mouse and keyboards well enough. The user is also expected to be familiar with modern web browser such as Mozilla Firefox and Google Chrome. The user is expected to be a atleast 18 years old so they has enough experience using computers.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+Here is the link of Invisio's prototype : https://invis.io/ZRR6359YXNP#/353481008_Screen-1
+![Freehand](img/Freehand.JPG)
+
