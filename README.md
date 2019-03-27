@@ -27,7 +27,7 @@ The third solution is actually an improvement of the first solution, i proposed 
 Given three possible solution, i will go with the **second solution** because a live search will save user's time and provide optimal result for the user. It will also prevent user from performing exhaustive search by having to open any drop down.
 
 ### 4. Design Rationale
-Based on my last contextual inquiry, i noticed something very important. **If user takes a lot of time to get to what they want then it's a bad design**. User should be able to quickly find what they're looking for. Exhaustive search is an example of bad design. That's why i decided to choose the second solution if it's possible to be implemented for the website.
+Based on my last contextual inquiry, i noticed something very important. **If user takes a lot of time to get to what they want then it's a bad design**. User should be able to quickly find what they're looking for. Exhaustive search is an example of bad design. In my last contextual inquiry user had to open all of the course's dropdown list and visit it to know whether it was the one that she is looking for. That's why i decided to choose the second solution if it's possible to be implemented for the website.
 
 ## Part B: Assumptions
 ### 1. Hardware
